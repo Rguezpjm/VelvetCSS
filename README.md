@@ -21,8 +21,16 @@
 2. Ejecuta el siguiente comando para instalar VelvetCSS a través de npm:
    ```bash
    npm install velvetcss
-   
+
+
 ## License
 
 [MIT](./LICENSE) &copy; [GitHub](https://github.com/)
+   
+## Uso
+Si prefieres no instalarlo localmente, puedes agregar VelvetCSS directamente a tu proyecto usando el siguiente enlace CDN:
+```bash
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/velvetcss/dist/velvetcss.min.css">
+
+
 
