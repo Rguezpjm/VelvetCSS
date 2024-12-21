@@ -2,7 +2,7 @@
   <img width="300px" alt="" src="./docs/src/readme.png">
 </p>
 
-<h1 align="center">VelvetCSS</h1>
+<h1 align="center" style="font-size: 32px;">Velvet<b style="color: black;">CSS</b></h1>
 
 <p align="center">VelvetCSS es un framework CSS minimalista y elegante, diseñado para crear interfaces de usuario fluidas, modernas y accesibles. Inspirado en la suavidad y sofisticación del terciopelo.</p>
 
